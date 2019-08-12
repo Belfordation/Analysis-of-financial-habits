@@ -1,2 +1,2 @@
-# Analysis-of-financial-habits
-the objective of this model is to predict which users are likely to churn
+# Analysis-of- an application users
+the objective of this model is to Direct users to subscription through app behavior analysis 
